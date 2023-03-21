@@ -68,8 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # voca
 
+## json-server install
 
 npm install -g json-server
-json-server --watch ./src/db/db.json --port 3001 
+json-server --watch ./src/db/db.json --port 3001
+
+## typescript install
+
+npm install typescript @types/node @types/react @types/react-dom @types/jest @types/react-router-dom
